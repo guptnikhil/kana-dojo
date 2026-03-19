@@ -825,7 +825,7 @@
     "note": "先に謝罪が基本。",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "写真撮影（寺社） 5",
@@ -833,7 +833,7 @@
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 93,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
