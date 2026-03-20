@@ -274,6 +274,17 @@
     "correctIndex": 0
   },
   {
+  "question": "Which Japanese dish is made of raw fish over rice?",
+  "difficulty": "easy",
+  "answers": [
+    "Sushi",
+    "Tempura",
+    "Tonkatsu",
+    "Okonomiyaki"
+  ],
+    "correctIndex": 0
+  },
+  {
   "question": "What is the Japanese term for a traditional inn? (Community variation 52)",
   "difficulty": "easy",
   "answers": [
@@ -285,3 +296,6 @@
   "correctIndex": 0
 }
 ]
+
+
+
