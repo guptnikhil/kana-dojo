@@ -172,5 +172,12 @@
   "english": "sentence ending",
   "region": "Fukuoka",
   "note": "Assertive friendly ending. (Set 4)"
+},
+  {
+  "dialect": "あかん",
+  "standardJapanese": "だめ",
+  "english": "no good",
+  "region": "Kansai",
+  "note": "Used for prohibition/failure. (Set 2)"
 }
 ]
