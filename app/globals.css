@@ -119,7 +119,13 @@ input[type='checkbox']:focus-visible {
 
 /* Game inputs override outline color to secondary */
 .game-input:focus-visible {
-  outline-color: var(--secondary-color) !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.game-input:focus {
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 :root {
